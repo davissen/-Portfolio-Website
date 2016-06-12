@@ -1,0 +1,20 @@
+h1 {
+	color: darkgreen;
+}
+
+.headers {
+	font: "georgia";
+	text-align: center;
+}
+
+p {
+	line-height: 19px;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}

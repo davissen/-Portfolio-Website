@@ -1,0 +1,42 @@
+#first {
+    margin: 5px;
+    padding: 1px;
+    border: 1px solid #ccc;
+   }
+
+.img{
+  	display: inline-block;
+	margin: 15px;
+}
+
+#intro{
+	float: left;
+	padding: 10px;
+}
+
+#gallery{
+	border: 1px solid black;
+ }
+
+ #footer{
+ 	display: inline-block;
+ 	padding: 12px;
+ 
+ }
+
+ p {
+ 	font-size: 20px;
+ 	font: Arial;
+
+ }
+
+
+li a:hover {
+	color: blue;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+li a:visited{
+    color:green;
+}
