@@ -59,7 +59,7 @@ nav{
  }
 
  body {
- 	background-color: #9BC1BC;
+ 	background-color: #DCDCDD;
  }
 
  #content{
@@ -67,7 +67,7 @@ nav{
  	left:150px;
  	min-width: 1000px;
     max-width: 1490px;
-    background-color: #F4F1BB;
+    background-color: #C5C3C6;
  }
 
 
@@ -76,12 +76,9 @@ nav{
  	font-size: 18px
  }
 
-#about{
-	background-color: #E6EBE0;
-}
 
 #resume{
-	background-color: #F4F1BB;
+	background-color: #C5C3C6;
 	min-width: 100%;
 	min-height: 1400px;
 	border-color: none;
